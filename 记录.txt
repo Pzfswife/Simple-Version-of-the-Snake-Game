@@ -1,0 +1,16 @@
+syu 0
+syu 0
+syu 0
+syu 100
+syu 100
+null 100
+null 100
+syu 100
+null 0
+syu 0
+null 0
+null 0
+null 0
+null 100
+null 100
+null 100
